@@ -149,7 +149,7 @@ En cuanto a la sintaxis, es la que seguimos usualmente para declarar variables.
 Nota: Seguramente al cargar nueva información, dependiendo de su extensión será necesario cambiar el centro del mapa o el zoom con el que aparece predeterminadamente el mapa. Procura tener actualizada estos datos para que la visualización del mapa sea la mas adecuada. 
 
 
-Siguiente Tutorial
+Siguiente Tutorial https://github.com/sampach95/EstilosSimples
 
 Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
 
